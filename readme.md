@@ -12,7 +12,7 @@ ToDo-List
 =========
 Simple ToDo List
 
-# Install
+## Install
 
 ```
 git clone https://github.com/ste7/ToDo-List
