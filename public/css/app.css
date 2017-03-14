@@ -1,0 +1,35 @@
+.container{
+    margin-bottom: 20px;
+}
+
+.list-wrap{
+    border: 4px solid rgba(213, 213, 213, 0.73);
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.task{
+    border-radius: 3px;
+    border: 1px solid rgba(187, 187, 187, 1);
+    background-color: rgba(248, 207, 164, 0.47);
+    transition: 1s;
+    box-shadow: 0px 2px 4px 0px rgba(143,130,126,1);
+    margin-bottom: 20px;
+}
+.task>span{
+    color: rgba(84, 84, 84, 1);
+    margin: 5px!important;
+    font-size: 25px;
+}
+.task i{
+    font-size: 34px;
+    float: right;
+}
+.task>p{
+    color: rgba(127, 127, 127, 1);
+    font-weight: bold;
+    margin-left: 5px;
+}
+.task:hover{
+    background-color: rgba(248, 136, 114, 0.47);
+}
