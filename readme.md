@@ -20,6 +20,4 @@ git clone https://github.com/ste7/ToDo-List
 
 import database  ``ToDo-List/database/todolistdb.sql ``
 
-```
-http://localhost/ToDo-List/public/
-```
+go to http://localhost/ToDo-List/public/
