@@ -4,7 +4,7 @@
 
     @if(Auth::check())
 
-        <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Create new task</button>
+        <button type="button" class="btn btn-info btn-lg col-sm-offset-5" data-toggle="modal" data-target="#myModal">Create new task</button>
 
         <!-- Modal -->
         <div class="modal fade" id="myModal" role="dialog">
